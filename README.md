@@ -38,7 +38,7 @@
 <p align="center">
    <i>FOLLOW ME!!!</i>
    <br>
-   <i>:small_red_triangle_down::small_red_triangle_down::small_red_triangle_down::small_red_triangle_down::small_red_triangle_down:</i>
+   <i>:small_red_triangle_down::small_red_triangle_down::small_red_triangle_down::small_red_triangle_down::small_red_triangle_down::small_red_triangle_down::small_red_triangle_down::small_red_triangle_down::small_red_triangle_down::small_red_triangle_down:</i>
    <br>
 <br>
 <a target="_blank" href="mailto:yossaphol3502@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
