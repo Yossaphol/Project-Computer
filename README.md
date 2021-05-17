@@ -1,6 +1,5 @@
 <h2 align="center">Hi 👋, I'm Yossaphol Manovorakul</h2>
 <h3 align="center">Interest in Coding, Gaming, and Travel</h3>
-<br>
 
 ### I am...
 * 🎓 Postgraduate student and researcher at **[@compvis-lab](https://github.com/compvis-lab)**
