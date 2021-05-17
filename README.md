@@ -12,7 +12,7 @@
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
 </p>
 
-**Currently working with:**
+### Currently working with :
 
 <a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a>
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
