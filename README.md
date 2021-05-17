@@ -36,7 +36,7 @@
 </p>
 <hr>
 <p align="center">
-   <i>Can follow me at</i>
+   <i>FOLLOW ME!!!</i>
    <br>
    <i>:small_red_triangle_down::small_red_triangle_down::small_red_triangle_down::small_red_triangle_down::small_red_triangle_down:</i>
    <br>
