@@ -1,4 +1,22 @@
-# 🛠 My skills include :
+<h2 align="center">Hi 👋, I'm Yossaphol Manovorakul</h2>
+<h3 align="center">Interest in Coding, Gaming, and Travel</h3>
+<br>
+
+### I am...
+* 🎓 Postgraduate student and researcher at **[@compvis-lab](https://github.com/compvis-lab)**
+* 🔭 Currently working on **[SmartMonitor](https://github.com/xtenzQ/JunctionX-Seoul-2020)**
+* 🎓 Exchange student of Inha University (fall semester, 2019)
+* 👨‍💻 Junior software engineer working at **[Transneft Technology, LLC](http://en.tt.transneft.ru/about/history/)**
+* 📄 Get to know about my experiences in **[CV](https://cv.rusetskii.dev/)**
+
+### Recent achievements 🏆
+
+* 📃 **Paper in Energies (Q2)** (as co-author) [Paper Publication](https://www.mdpi.com/1996-1073/14/2/418)
+* 🥉 **IEEE Seoul Section Student Paper Bronze Award (2020)** (as co-author)
+* 🥉 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** 3rd winner in SIA Track with project SmartMonitor
+* 📃 **International Conference on Electric-Vehicle, Smart Grid and Information Technology 2020** (as co-author) [Paper Publication](https://www.researchgate.net/publication/344287197_Optimal_Distributed_Generation_Selection_Using_Particle_Swarm_Optimization)
+
+## 🛠 My skills include :
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
