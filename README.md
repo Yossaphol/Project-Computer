@@ -10,9 +10,8 @@
 
 ### Recent achievements 🏆
 
-* 📃 **Paper in Energies (Q2)** (as co-author) [Paper Publication](https://www.mdpi.com/1996-1073/14/2/418)
-* 🥉 **IEEE Seoul Section Student Paper Bronze Award (2020)** (as co-author)
-* 🥉 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** 3rd winner in SIA Track with project SmartMonitor
+* 🥇 **รางวัลชนะเลิศ ระดับเหรียญทอง กิจกรรมการแข่งขันต่อสมการคณิตศาสตร์ งานมหกรรมความสามารถทางศิลปหัตถกรรม วิชาการ และ เทคโนโลยีของนักเรียน ระดับชาติ** (as co-author)
+* 🥇 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** 3rd winner in SIA Track with project SmartMonitor
 * 📃 **International Conference on Electric-Vehicle, Smart Grid and Information Technology 2020** (as co-author) [Paper Publication](https://www.researchgate.net/publication/344287197_Optimal_Distributed_Generation_Selection_Using_Particle_Swarm_Optimization)
 
 ## 🛠 My skills include :
