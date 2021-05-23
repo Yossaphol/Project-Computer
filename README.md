@@ -24,7 +24,7 @@
 ![PHP](https://img.shields.io/badge/-php-%23282C34?style=flat-square&logo=Php)
 ![java](https://img.shields.io/badge/-java-%23282C34?style=flat-square&logo=Java)
 
-![Github](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=github)
+![Github](https://img.shields.io/badge/-Github-%23007ACC?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-%235A5A5A?style=flat-square&logo=adobe-xd)
